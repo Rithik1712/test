@@ -1,0 +1,5 @@
+{{#user}}
+Name: Hrithik Roshan Sharma
+Skills:python,HTML, CSS,
+Email: rithiksharma178.rs@gmail.com
+{{/user}}
